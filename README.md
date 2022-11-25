@@ -58,7 +58,7 @@ Room link :: https://tryhackme.com/room/neighbour
 
 
 ```bash
-9. aaaaaa! You're now logged in as admin and you got the flag > flag{***************}
+9. aaaaaa! You're now logged in as admin and you have got the flag > flag{***************}
 ```
 
 ![nfinal](https://user-images.githubusercontent.com/119054834/204042020-fed9fbf6-2478-4dca-ba8e-8de72d43a5fc.png)
