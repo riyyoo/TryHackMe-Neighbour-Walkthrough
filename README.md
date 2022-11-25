@@ -46,7 +46,7 @@ Room link :: https://tryhackme.com/room/neighbour
 
 
 ```bash
-7. And now here you got some hints for the admin page and we know we are still logged in guest.
+7. And now here you got some hints for the admin page and we know we are still logged in as guest.
 ```
 ![n6](https://user-images.githubusercontent.com/119054834/204041753-68a97082-4dfd-4b29-a740-69cc95a05192.png)
 
