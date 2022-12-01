@@ -2,6 +2,7 @@
 # TryHackMe-Neighbour
 
 A very easy ctf dealing with IDOR | 
+IDOR is a broken access control vulnerability where invalidated user input can be used to perform unauthorized access to application functions.
 
 Room link :: https://tryhackme.com/room/neighbour
 
