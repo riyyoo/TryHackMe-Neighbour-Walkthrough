@@ -75,3 +75,10 @@ What is IDOR vulnerability ?
 - Insecure direct object references are common, potentially devastating vulnerabilities resulting from broken access control in web applications. IDOR bugs allow an attacker to maliciously interact with a web application by manipulating a “direct object reference,” such as a database key, query parameter, or filename.
 
 Hope this was helpful. thank you!
+
+
+```bash
+Answer the questions below :
+Find the flag on your neighbor's logged in page!
+-- flag{66be95c478473d91a5358f2440c7af1f}
+```
